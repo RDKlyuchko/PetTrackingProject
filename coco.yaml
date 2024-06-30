@@ -1,5 +1,5 @@
 train: E:/PetTrackingProject/datasets/train/
 val: E:/PetTrackingProject/datasets/val/
 
-nc: 2  # Number of classes (dog and cat)
-names: ['dog', 'cat']  # Class names
+nc: 2
+names: ['dog', 'cat']
